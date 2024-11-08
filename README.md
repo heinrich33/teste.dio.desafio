@@ -12,4 +12,6 @@ CSS3: Estilização visual.
 Funcionalidades:
 
 Para conferir o resultado final, acesse a página: [https://heinrich33.github.io/teste.dio.desafio/]
+![image](https://github.com/user-attachments/assets/34bed413-24eb-4913-8c2d-0221b6adce29)
+
 
