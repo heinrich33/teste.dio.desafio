@@ -11,5 +11,5 @@ HTML5: Estrutura da página.
 CSS3: Estilização visual.
 Funcionalidades:
 
-Para conferir o resultado final, acesse a página: [Insira o link da sua landing page aqui]
+Para conferir o resultado final, acesse a página: [https://heinrich33.github.io/teste.dio.desafio/]
 
